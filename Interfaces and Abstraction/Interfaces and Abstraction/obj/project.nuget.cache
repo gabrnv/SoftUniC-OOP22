@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+shm0M8rolStTUWE7vaF4j8g68aWnXINQg5BRNDmr/jVtIk9T5CsTCAoPPW0xOgp6FTpO/QgnHTfA83puQePQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUniC#OOP22\\Interfaces and Abstraction\\Interfaces and Abstraction\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

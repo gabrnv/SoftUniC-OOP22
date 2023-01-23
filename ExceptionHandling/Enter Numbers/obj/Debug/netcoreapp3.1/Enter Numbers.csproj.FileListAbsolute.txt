@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\bin\Debug\netcoreapp3.1\Enter Numbers.exe
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\bin\Debug\netcoreapp3.1\Enter Numbers.deps.json
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\bin\Debug\netcoreapp3.1\Enter Numbers.runtimeconfig.json
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\bin\Debug\netcoreapp3.1\Enter Numbers.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\bin\Debug\netcoreapp3.1\Enter Numbers.dll
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\bin\Debug\netcoreapp3.1\Enter Numbers.pdb
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\obj\Debug\netcoreapp3.1\Enter Numbers.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\obj\Debug\netcoreapp3.1\Enter Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\obj\Debug\netcoreapp3.1\Enter Numbers.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\obj\Debug\netcoreapp3.1\Enter Numbers.AssemblyInfo.cs
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\obj\Debug\netcoreapp3.1\Enter Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\obj\Debug\netcoreapp3.1\Enter Numbers.dll
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\obj\Debug\netcoreapp3.1\Enter Numbers.pdb
+D:\SoftUniC#OOP22\ExceptionHandling\Enter Numbers\obj\Debug\netcoreapp3.1\Enter Numbers.genruntimeconfig.cache

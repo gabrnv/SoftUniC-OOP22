@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\Solids\Solids\bin\Debug\netcoreapp3.1\Stream Progress Info.exe
+D:\SoftUniC#OOP22\Solids\Solids\bin\Debug\netcoreapp3.1\Stream Progress Info.deps.json
+D:\SoftUniC#OOP22\Solids\Solids\bin\Debug\netcoreapp3.1\Stream Progress Info.runtimeconfig.json
+D:\SoftUniC#OOP22\Solids\Solids\bin\Debug\netcoreapp3.1\Stream Progress Info.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\Solids\Solids\bin\Debug\netcoreapp3.1\Stream Progress Info.dll
+D:\SoftUniC#OOP22\Solids\Solids\bin\Debug\netcoreapp3.1\Stream Progress Info.pdb
+D:\SoftUniC#OOP22\Solids\Solids\obj\Debug\netcoreapp3.1\Stream Progress Info.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\Solids\Solids\obj\Debug\netcoreapp3.1\Stream Progress Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\Solids\Solids\obj\Debug\netcoreapp3.1\Stream Progress Info.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\Solids\Solids\obj\Debug\netcoreapp3.1\Stream Progress Info.AssemblyInfo.cs
+D:\SoftUniC#OOP22\Solids\Solids\obj\Debug\netcoreapp3.1\Stream Progress Info.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\Solids\Solids\obj\Debug\netcoreapp3.1\Stream Progress Info.dll
+D:\SoftUniC#OOP22\Solids\Solids\obj\Debug\netcoreapp3.1\Stream Progress Info.pdb
+D:\SoftUniC#OOP22\Solids\Solids\obj\Debug\netcoreapp3.1\Stream Progress Info.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68daf71a-43e9-4326-b5c8-cc61d69261a6": {
+      "ProjectGuid": "68daf71a-43e9-4326-b5c8-cc61d69261a6",
+      "DisplayName": "UnitTestingExercise",
+      "ColorIndex": 0
+    },
+    "5a221b8c-d929-42bc-a6ac-7970c3d8f414": {
+      "ProjectGuid": "5a221b8c-d929-42bc-a6ac-7970c3d8f414",
+      "DisplayName": "Database",
+      "ColorIndex": 1
+    },
+    "0ee11d0b-5728-4dc2-8350-45b429de7c9a": {
+      "ProjectGuid": "0ee11d0b-5728-4dc2-8350-45b429de7c9a",
+      "DisplayName": "Database.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

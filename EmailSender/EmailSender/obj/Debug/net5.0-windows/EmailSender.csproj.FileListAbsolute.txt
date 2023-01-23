@@ -1,0 +1,8 @@
+D:\SoftUniC#OOP22\EmailSender\EmailSender\obj\Debug\net5.0-windows\EmailSender.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\EmailSender\EmailSender\obj\Debug\net5.0-windows\EmailDemo.Program.resources
+D:\SoftUniC#OOP22\EmailSender\EmailSender\obj\Debug\net5.0-windows\EmailSender.csproj.GenerateResource.cache
+D:\SoftUniC#OOP22\EmailSender\EmailSender\obj\Debug\net5.0-windows\EmailSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\EmailSender\EmailSender\obj\Debug\net5.0-windows\EmailSender.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\EmailSender\EmailSender\obj\Debug\net5.0-windows\EmailSender.AssemblyInfo.cs
+D:\SoftUniC#OOP22\EmailSender\EmailSender\obj\Debug\net5.0-windows\EmailSender.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\EmailSender\EmailSender\obj\Debug\net5.0-windows\EmailSender.Program.resources

@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Shapes.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\SoftUniC#OOP22\Interfaces and Abstraction\Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+D:\SoftUniC#OOP22\ExamPrep\2\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache

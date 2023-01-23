@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+D:\SoftUniC#OOP22\MockingFolder\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache

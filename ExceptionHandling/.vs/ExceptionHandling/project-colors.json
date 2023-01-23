@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f24552c4-5bd7-4ddf-ae72-1df2272618ef": {
+      "ProjectGuid": "f24552c4-5bd7-4ddf-ae72-1df2272618ef",
+      "DisplayName": "Square Root",
+      "ColorIndex": 0
+    },
+    "094a9bf6-ee4b-4bc4-9fbf-0e7622dd2858": {
+      "ProjectGuid": "094a9bf6-ee4b-4bc4-9fbf-0e7622dd2858",
+      "DisplayName": "Enter Numbers",
+      "ColorIndex": 1
+    },
+    "c9121dbf-2af4-4c32-9033-939a7119fda5": {
+      "ProjectGuid": "c9121dbf-2af4-4c32-9033-939a7119fda5",
+      "DisplayName": "Cards",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

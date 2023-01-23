@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\Square Root.exe
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\Square Root.deps.json
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\Square Root.runtimeconfig.json
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\Square Root.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\Square Root.dll
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\Square Root.pdb
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\Square Root.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\Square Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\Square Root.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\Square Root.AssemblyInfo.cs
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\Square Root.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\Square Root.dll
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\Square Root.pdb
+D:\SoftUniC#OOP22\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\Square Root.genruntimeconfig.cache

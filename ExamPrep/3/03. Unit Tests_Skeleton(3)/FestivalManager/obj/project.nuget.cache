@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+fs1lIThBiKF9ZefLVeBiY3dzdMFyX0MEgEins9z4/FE0JhOqgbSHrnDJ7iLTdH6HBwINs8wmfQHYDMuZviqw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUniC#OOP22\\ExamPrep\\3\\03. Unit Tests_Skeleton(3)\\FestivalManager\\FestivalManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTwhC0gmOIlWjS4lkXaosjubdg6yQiEcLWrLafHNUaSG0AjfVYR/C0seMUmxFVLgxCfVop98AI+MwB+7oVlZDw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUniC#OOP22\\Solids\\P04.Recharge\\P04.Recharge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

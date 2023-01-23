@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84440b35-eb27-45cb-abc0-4e0c334774d1": {
+      "ProjectGuid": "84440b35-eb27-45cb-abc0-4e0c334774d1",
+      "DisplayName": "Operations",
+      "ColorIndex": 0
+    },
+    "62bc8306-75ac-479c-aa87-6f7b22791197": {
+      "ProjectGuid": "62bc8306-75ac-479c-aa87-6f7b22791197",
+      "DisplayName": "Animals",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

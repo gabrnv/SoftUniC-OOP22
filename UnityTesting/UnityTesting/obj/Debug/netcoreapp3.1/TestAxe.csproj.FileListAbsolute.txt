@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\bin\Debug\netcoreapp3.1\TestAxe.exe
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\bin\Debug\netcoreapp3.1\TestAxe.deps.json
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\bin\Debug\netcoreapp3.1\TestAxe.runtimeconfig.json
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\bin\Debug\netcoreapp3.1\TestAxe.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\bin\Debug\netcoreapp3.1\TestAxe.dll
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\bin\Debug\netcoreapp3.1\TestAxe.pdb
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\obj\Debug\netcoreapp3.1\TestAxe.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\obj\Debug\netcoreapp3.1\TestAxe.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\obj\Debug\netcoreapp3.1\TestAxe.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\obj\Debug\netcoreapp3.1\TestAxe.AssemblyInfo.cs
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\obj\Debug\netcoreapp3.1\TestAxe.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\obj\Debug\netcoreapp3.1\TestAxe.dll
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\obj\Debug\netcoreapp3.1\TestAxe.pdb
+D:\SoftUniC#OOP22\UnityTesting\UnityTesting\obj\Debug\netcoreapp3.1\TestAxe.genruntimeconfig.cache

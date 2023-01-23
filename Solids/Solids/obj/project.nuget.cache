@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7TRoDNMfsgg17ywpXb2vyNnT8mGlryREBpswo4DNY349CTSZjPgmwKp0BIuUrlIFpSWy7BZZ8C80zZWHaiQ3Gg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUniC#OOP22\\Solids\\Solids\\Stream Progress Info.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Pe49hU0yKeTYRCFgMMsE53nIEwUjbj0/FHzgj7SY0mAIrqF5hvdUeppw+AZ1O54BEZOIhBzPtCEMkAy4QmTRQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUniC#OOP22\\UnityTesting\\UnityTesting\\TestAxe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

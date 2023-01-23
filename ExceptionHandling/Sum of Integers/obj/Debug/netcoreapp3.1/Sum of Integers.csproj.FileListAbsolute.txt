@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\bin\Debug\netcoreapp3.1\Sum of Integers.exe
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\bin\Debug\netcoreapp3.1\Sum of Integers.deps.json
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\bin\Debug\netcoreapp3.1\Sum of Integers.runtimeconfig.json
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\bin\Debug\netcoreapp3.1\Sum of Integers.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\bin\Debug\netcoreapp3.1\Sum of Integers.dll
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\bin\Debug\netcoreapp3.1\Sum of Integers.pdb
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\obj\Debug\netcoreapp3.1\Sum of Integers.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\obj\Debug\netcoreapp3.1\Sum of Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\obj\Debug\netcoreapp3.1\Sum of Integers.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\obj\Debug\netcoreapp3.1\Sum of Integers.AssemblyInfo.cs
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\obj\Debug\netcoreapp3.1\Sum of Integers.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\obj\Debug\netcoreapp3.1\Sum of Integers.dll
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\obj\Debug\netcoreapp3.1\Sum of Integers.pdb
+D:\SoftUniC#OOP22\ExceptionHandling\Sum of Integers\obj\Debug\netcoreapp3.1\Sum of Integers.genruntimeconfig.cache

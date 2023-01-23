@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZ3l/1qEOaP/9IQZsl0B188+Vzj+g0VLwwIm6gz7JNWPGZDFHaEShxjFdOd17xeLpl6SwiqPjfOOoR+n9rAWKQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUniC#OOP22\\Interfaces and Abstraction\\Cars\\Cars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

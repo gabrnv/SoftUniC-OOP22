@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba286533-2b19-4ae0-8994-3f7960b7a5fa": {
+      "ProjectGuid": "ba286533-2b19-4ae0-8994-3f7960b7a5fa",
+      "DisplayName": "INStock",
+      "ColorIndex": 0
+    },
+    "d95137df-43b3-47c8-adb0-3a510ec897b4": {
+      "ProjectGuid": "d95137df-43b3-47c8-adb0-3a510ec897b4",
+      "DisplayName": "INStock.Tests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,13 @@
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.exe
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.deps.json
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.json
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfo.cs
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+D:\SoftUniC#OOP22\Solids\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mM4pJhobMNwX+FONWn876CH0+WKZ1vm7GUZ56/WmgJ2xNyVGdnbXGcaHz5JRaYsR37Z4bkvC2hWfKQhBCG2l3Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUniC#OOP22\\ExamPrep\\2\\Skeleton\\Gym\\Gym.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

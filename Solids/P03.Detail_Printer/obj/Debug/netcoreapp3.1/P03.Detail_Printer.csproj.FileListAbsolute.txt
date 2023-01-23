@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.exe
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.deps.json
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.json
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfo.cs
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+D:\SoftUniC#OOP22\Solids\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.genruntimeconfig.cache

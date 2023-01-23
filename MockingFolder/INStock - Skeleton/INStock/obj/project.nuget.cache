@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7qHLI6d6/kF9yXBYrAt2wRHl9FjSiO/LmC2rbhLWFdFolGEPiPN/w1o2lzEVRvlnx7iomljFjdBjehISGv+Gw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUniC#OOP22\\MockingFolder\\INStock - Skeleton\\INStock\\INStock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

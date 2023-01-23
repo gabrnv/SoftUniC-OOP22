@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be5a5721-7c84-43a4-96a0-b7a19cdfa5e4": {
+      "ProjectGuid": "be5a5721-7c84-43a4-96a0-b7a19cdfa5e4",
+      "DisplayName": "P02.Graphic_Editor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

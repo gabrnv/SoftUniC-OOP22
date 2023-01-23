@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6XnlN7CMeKrIEEjPVZty3YKf8zKfFrcjHVTqX12QWZHWNcvBqDOJWcKA9LczlX9dipO0QBil8kzG3dFNIscag==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUniC#OOP22\\ExceptionHandling\\Enter Numbers\\Enter Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

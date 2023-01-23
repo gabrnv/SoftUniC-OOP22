@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2a57823-920d-443f-bc8c-bd3f1f61fcb9": {
+      "ProjectGuid": "d2a57823-920d-443f-bc8c-bd3f1f61fcb9",
+      "DisplayName": "Stream Progress Info",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

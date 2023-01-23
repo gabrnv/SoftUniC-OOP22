@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\Solids\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.exe
+D:\SoftUniC#OOP22\Solids\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.deps.json
+D:\SoftUniC#OOP22\Solids\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.json
+D:\SoftUniC#OOP22\Solids\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\Solids\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.dll
+D:\SoftUniC#OOP22\Solids\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.pdb
+D:\SoftUniC#OOP22\Solids\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\Solids\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\Solids\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\Solids\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfo.cs
+D:\SoftUniC#OOP22\Solids\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\Solids\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.dll
+D:\SoftUniC#OOP22\Solids\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.pdb
+D:\SoftUniC#OOP22\Solids\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.genruntimeconfig.cache

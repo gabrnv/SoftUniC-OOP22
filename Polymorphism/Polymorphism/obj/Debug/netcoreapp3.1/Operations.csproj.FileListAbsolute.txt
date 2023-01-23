@@ -1,0 +1,13 @@
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Operations.exe
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Operations.deps.json
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Operations.dll
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Operations.pdb
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Operations.dll
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Operations.pdb
+D:\SoftUniC#OOP22\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

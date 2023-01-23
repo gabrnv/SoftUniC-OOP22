@@ -1,0 +1,10 @@
+D:\SoftUniC#OOP22\UnitTestingExercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+D:\SoftUniC#OOP22\UnitTestingExercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+D:\SoftUniC#OOP22\UnitTestingExercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+D:\SoftUniC#OOP22\UnitTestingExercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\UnitTestingExercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\UnitTestingExercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\UnitTestingExercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+D:\SoftUniC#OOP22\UnitTestingExercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\UnitTestingExercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+D:\SoftUniC#OOP22\UnitTestingExercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb

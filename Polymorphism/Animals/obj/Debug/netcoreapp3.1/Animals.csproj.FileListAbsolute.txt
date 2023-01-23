@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\SoftUniC#OOP22\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\SoftUniC#OOP22\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\SoftUniC#OOP22\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\SoftUniC#OOP22\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\SoftUniC#OOP22\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\SoftUniC#OOP22\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\SoftUniC#OOP22\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\SoftUniC#OOP22\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

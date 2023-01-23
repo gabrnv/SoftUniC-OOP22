@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\obj\Debug\netcoreapp3.1\Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+D:\SoftUniC#OOP22\ExceptionHandling\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache

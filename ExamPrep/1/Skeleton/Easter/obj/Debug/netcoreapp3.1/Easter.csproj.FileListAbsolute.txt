@@ -1,0 +1,14 @@
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+D:\SoftUniC#OOP22\ExamPrep\1\Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache

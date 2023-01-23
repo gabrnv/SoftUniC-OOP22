@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ufbnrpc2kG/BK006N2y9vLIN3jgMSrzVIrQhA9CumRSGMUi0jcAl1AI4Yhc20l5Jy0rsc4l6fOe9ukiBIHp8QQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUniC#OOP22\\ExamPrep\\3\\Skeleton\\WarCroft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
